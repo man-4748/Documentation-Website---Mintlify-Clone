@@ -19,3 +19,8 @@ This assignment recreates the structural components of a modern documentation pl
 * `style.css`: Custom styles focusing on layout accuracy (No frameworks used).
 * `/images`: Optimized assets including company logos and feature illustrations.
 
+## Final Output
+*  Screenshot of thw webpage is attached. ![Screenshot_7-2-2026_75950_127 0 0 1](https://github.com/user-attachments/assets/a3107360-38d3-4ff7-837f-67295baeb5d3)
+ *
+
+
